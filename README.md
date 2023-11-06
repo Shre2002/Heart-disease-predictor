@@ -4,7 +4,7 @@ Here we will be using a sample dataset on our prediction model to find the accur
 
 As far as we've seen, we obtain the following accuracy percentage for the following techniques.
 
-K NEAREST NEIGHBOR : 85.06%
+K NEAREST NEIGHBOR : 68.85%
 
 SVM + XGBOOST : 95.8%
 
