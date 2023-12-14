@@ -6,7 +6,7 @@ As far as we've seen, we obtain the following accuracy percentage for the follow
 
 K NEAREST NEIGHBOR : 68.85%
 
-SVM + XGBOOST : 95.8%
+SVM + XGBOOST : 99.2%
 
 LINEAR REGRESSION : 88.52%
 
